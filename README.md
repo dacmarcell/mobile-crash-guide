@@ -41,3 +41,6 @@ Uma lista de livros, cursos e artigos sobre React Native.
 - [React Native Vs IOS Native](https://assets.website-files.com/5fddf3ad1621378d415ccb6d/60099450a0951e80185bf92c_React%20Native%20Vs%20IOS%20Native.pdf)
 - [React Native For Professionals](https://goalkicker.com/ReactNativeBook/ReactNativeNotesForProfessionals.pdf)
 - [Building User Interfaces React Native 2 Intermediate Concepts](https://wisc-hci-curriculum.github.io/cs639-f20/lectures/08-Build-React-Native-2.pdf)
+- [The Complete Redux Book](https://www.dsspp.sk/assets/redux-book.pdf)
+- [React + Redux](https://weblab.mit.edu/public/react-redux.pdf)
+- [Scalable React Application with Redux and Typescript](https://www.theseus.fi/bitstream/handle/10024/752149/Dao_Phong.pdf?sequence=2&isAllowed=y)
