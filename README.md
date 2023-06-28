@@ -1,4 +1,5 @@
-# ReactNativeGuide
+# React Native Guide
+
 Uma lista de livros, cursos e artigos sobre React Native.
 
 [Roadmap React Native](https://roadmap.sh/pdfs/roadmaps/react.pdf)
@@ -7,6 +8,8 @@ Uma lista de livros, cursos e artigos sobre React Native.
 
 ## Conteúdos
 
+*Conteúdos do repositório*
+
 - [Livros](#Livros)
 - [Exercícios/Projetos](#Exercícios/Projetos)
 - [LivrosIngles](#LivrosIngles)
@@ -14,6 +17,7 @@ Uma lista de livros, cursos e artigos sobre React Native.
 ## Livros
 
 *Livros sobre React Native* - EM Português
+
 - [Javascript ES6+](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula01.pdf)
 - [Instruções sobre Preparação e Instalação do Ambiente React Native](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula03.pdf)
 - [Paradigmas de Programação React Native - Componentes](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula06.pdf)
