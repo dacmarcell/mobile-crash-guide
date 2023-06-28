@@ -8,6 +8,8 @@ Uma lista de livros, cursos e artigos sobre React Native.
 ## Conteúdos
 
 - [Livros](#Livros)
+- [Exercícios/Projetos](#Exercícios/Projetos)
+- [LivrosIngles](#LivrosIngles)
 
 ## Livros
 
@@ -19,7 +21,7 @@ Uma lista de livros, cursos e artigos sobre React Native.
 - [Paradigmas de Programação React Native - Props/State](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula05.pdf)
 - [Paradigmas de Programação React Native - Axios](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula08.pdf)
 
-## Exercícios / Projetos
+## Exercícios/Projetos
 
 - [App Contatos 1.0](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula09.pdf)
 - [App Contatos 1.1](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula10.pdf)
