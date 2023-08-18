@@ -1,5 +1,7 @@
 # React Native Guide
 
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83461178/261480164-ef2248e6-9885-498b-b737-7663515a3c33.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230818%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230818T020244Z&X-Amz-Expires=300&X-Amz-Signature=2fc059d811457f7e4b410df76fe59bfa2bbe454b685d88b6994c6f1506790048&X-Amz-SignedHeaders=host&actor_id=83461178&key_id=0&repo_id=659496478" width="450px" height="300px"/>
+
 Uma lista de livros, cursos e artigos sobre React Native.
 
 [Roadmap React Native](https://roadmap.sh/pdfs/roadmaps/react.pdf)
