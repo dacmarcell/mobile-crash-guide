@@ -4,8 +4,6 @@ Uma lista de livros, cursos e artigos sobre React Native.
 
 [Roadmap React Native](https://roadmap.sh/pdfs/roadmaps/react.pdf)
 
-![](https://github.com/marcelldac/ReactNativeGuide/assets/83461178/c21811da-304c-49ed-9c27-65060292a055)
-
 ## Conteúdos
 
 *Conteúdos do repositório*
