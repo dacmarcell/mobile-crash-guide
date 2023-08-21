@@ -1,22 +1,18 @@
 # React Native Guide
-
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83461178/261480164-ef2248e6-9885-498b-b737-7663515a3c33.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230818%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230818T020244Z&X-Amz-Expires=300&X-Amz-Signature=2fc059d811457f7e4b410df76fe59bfa2bbe454b685d88b6994c6f1506790048&X-Amz-SignedHeaders=host&actor_id=83461178&key_id=0&repo_id=659496478" width="450px" height="300px"/>
-
-Uma lista de livros, cursos e artigos sobre React Native.
+Here is a list of books, courses, and articles on React Native.
 
 [Roadmap React Native](https://roadmap.sh/pdfs/roadmaps/react.pdf)
 
-## Conteúdos
+## Content
 
-*Conteúdos do repositório*
+*Repository content*
 
-- [Livros](#Livros)
-- [Exercícios/Projetos](#Exercícios/Projetos)
-- [LivrosIngles](#LivrosIngles)
+- [Books](#books)
+- [Projects](#projects)
 
-## Livros
+## Books
 
-*Livros sobre React Native* - EM Português
+*Books about React Native* (in Portuguese)
 
 - [Javascript ES6+](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula01.pdf)
 - [Instruções sobre Preparação e Instalação do Ambiente React Native](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula03.pdf)
@@ -25,14 +21,7 @@ Uma lista de livros, cursos e artigos sobre React Native.
 - [Paradigmas de Programação React Native - Props/State](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula05.pdf)
 - [Paradigmas de Programação React Native - Axios](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula08.pdf)
 
-## Exercícios/Projetos
-
-- [App Contatos 1.0](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula09.pdf)
-- [App Contatos 1.1](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula10.pdf)
-
-## LivrosIngles
-
-*Livros sobre React Native* - EM INGLÊS
+*Books about React Native* (in English)
 
 - [The React Beginner's handbook](https://www.lcg.ufrj.br/nodejs/books/react-beginners-handbook.pdf)
 - [React Native - TutorialsPoint](https://www.tutorialspoint.com/react_native/react_native_tutorial.pdf)
@@ -48,3 +37,8 @@ Uma lista de livros, cursos e artigos sobre React Native.
 - [The Complete Redux Book](https://www.dsspp.sk/assets/redux-book.pdf)
 - [React + Redux](https://weblab.mit.edu/public/react-redux.pdf)
 - [Scalable React Application with Redux and Typescript](https://www.theseus.fi/bitstream/handle/10024/752149/Dao_Phong.pdf?sequence=2&isAllowed=y)
+
+## Projects
+
+- [Contacts App 1.0](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula09.pdf)
+- [Contacts App 1.1](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula10.pdf)
