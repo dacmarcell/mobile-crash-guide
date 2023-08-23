@@ -3,16 +3,9 @@ Here is a list of books, courses, and articles on React Native.
 
 [Roadmap React Native](https://roadmap.sh/pdfs/roadmaps/react.pdf)
 
-## Content
+## Books and articles
 
-*Repository content*
-
-- [Books](#books)
-- [Projects](#projects)
-
-## Books
-
-*Books about React Native* (in Portuguese)
+*Books and articles about React Native* (in Portuguese)
 
 - [Javascript ES6+](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula01.pdf)
 - [Instruções sobre Preparação e Instalação do Ambiente React Native](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula03.pdf)
@@ -20,8 +13,10 @@ Here is a list of books, courses, and articles on React Native.
 - [Paradigmas de Programação React Native - Flexbox](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula04.pdf)
 - [Paradigmas de Programação React Native - Props/State](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula05.pdf)
 - [Paradigmas de Programação React Native - Axios](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula08.pdf)
+- [MANUAL DE REFERÊNCIA ELETRÔNICO PARA REACT NATIVE](https://seer.uniacademia.edu.br/index.php/ANL/article/viewFile/3090/2093)
+- [Paradigmas de Programação React Native](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula06.pdf)
 
-*Books about React Native* (in English)
+*Books and articles about React Native* (in English)
 
 - [The React Beginner's handbook](https://www.lcg.ufrj.br/nodejs/books/react-beginners-handbook.pdf)
 - [React Native - TutorialsPoint](https://www.tutorialspoint.com/react_native/react_native_tutorial.pdf)
@@ -37,6 +32,8 @@ Here is a list of books, courses, and articles on React Native.
 - [The Complete Redux Book](https://www.dsspp.sk/assets/redux-book.pdf)
 - [React + Redux](https://weblab.mit.edu/public/react-redux.pdf)
 - [Scalable React Application with Redux and Typescript](https://www.theseus.fi/bitstream/handle/10024/752149/Dao_Phong.pdf?sequence=2&isAllowed=y)
+- [React + Redux: Managing Your React App State with Redux](https://weblab.mit.edu/public/react-redux.pdf)
+- [Intro to React, Redux and Typescript](https://blog.isquaredsoftware.com/presentations/pdfs/Mark%20Erikson%20-%20Introduction%20to%20React,%20Redux,%20and%20TypeScript%20(2020).pdf)
 
 ## Projects
 
