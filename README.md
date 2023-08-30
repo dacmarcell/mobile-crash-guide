@@ -1,3 +1,6 @@
+
+![RN Guide Logo](https://github.com/marcelldac/react-native-guide/assets/83461178/70fdf994-3127-4722-ac50-fd2f687c9752)
+
 # React Native Guide
 Here is a list of books, courses, and articles on React Native.
 
