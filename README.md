@@ -1,5 +1,5 @@
 
-![RN Guide Logo](https://github.com/marcelldac/react-native-guide/assets/83461178/70fdf994-3127-4722-ac50-fd2f687c9752)
+![RN Crash Guide Logo]([https://github.com/marcelldac/react-native-guide/assets/83461178/70fdf994-3127-4722-ac50-fd2f687c9752](https://github.com/marcelldac/react-native-crash-guide/assets/83461178/f603cec2-597b-4f54-8edd-65b442c95624))
 
 # React Native Crash Guide
 Vosso acerto de tudo sobre nossa gambiarra favorita: React Native!
