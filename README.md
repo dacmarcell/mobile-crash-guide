@@ -1,6 +1,14 @@
 
 ![RN Crash Guide Logo](https://github-production-user-asset-6210df.s3.amazonaws.com/83461178/287500669-f603cec2-597b-4f54-8edd-65b442c95624.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231203%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231203T062626Z&X-Amz-Expires=300&X-Amz-Signature=b2d58cee78925c577d5488547a13e17f4f5b6ef235f716a06b4da11ef58a4d60&X-Amz-SignedHeaders=host&actor_id=83461178&key_id=0&repo_id=659496478)
 
+### Como contribuir com o projeto? 
+
+Meu método de pesquisa atual é baseado no google hacking:
+```
+intext:react native filetype:pdf
+```
+Com isso você irá receber todo arquivo pdf público na internet que tem em seu texto interno o termo "react native".
+
 # React Native Crash Guide
 Vosso acerto de tudo sobre nossa gambiarra favorita: React Native!
 
@@ -12,12 +20,14 @@ Vosso acerto de tudo sobre nossa gambiarra favorita: React Native!
 
 - [Javascript ES6+](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula01.pdf)
 - [Instruções sobre Preparação e Instalação do Ambiente React Native](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula03.pdf)
-- [Paradigmas de Programação React Native - Componentes](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula06.pdf)
+- [Paradigmas de Programação React Native - Function Component e Stateful Component](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula06.pdf)
 - [Paradigmas de Programação React Native - Flexbox](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula04.pdf)
 - [Paradigmas de Programação React Native - Props/State](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula05.pdf)
 - [Paradigmas de Programação React Native - Axios](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula08.pdf)
 - [MANUAL DE REFERÊNCIA ELETRÔNICO PARA REACT NATIVE](https://seer.uniacademia.edu.br/index.php/ANL/article/viewFile/3090/2093)
 - [Paradigmas de Programação React Native](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula06.pdf)
+- [Desenvolvimento para Dispositivos Móveis](https://www.inf.ufpr.br/dagoncalves/UFPR_Disp03.pdf)
+- [Apostila React Native IFSP](https://cbt.ifsp.edu.br/images/Documentos/2021/Trabalho_de_TCC/417_Apostila_React.pdf)
 
 *Livros e artigos sobre React Native* (in English)
 
