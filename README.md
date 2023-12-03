@@ -1,7 +1,12 @@
 
 ![RN Crash Guide Logo](https://github-production-user-asset-6210df.s3.amazonaws.com/83461178/287500669-f603cec2-597b-4f54-8edd-65b442c95624.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231203%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231203T062626Z&X-Amz-Expires=300&X-Amz-Signature=b2d58cee78925c577d5488547a13e17f4f5b6ef235f716a06b4da11ef58a4d60&X-Amz-SignedHeaders=host&actor_id=83461178&key_id=0&repo_id=659496478)
 
-### Como contribuir com o projeto? 
+# React Native Crash Guide
+Vosso acerto de tudo sobre nossa gambiarra favorita: React Native!
+
+[Roadmap React Native](https://roadmap.sh/pdfs/roadmaps/react.pdf)
+
+## Como contribuir com o projeto? 
 
 Meu método de pesquisa atual é baseado no google hacking:
 ```
@@ -9,12 +14,8 @@ intext:react native filetype:pdf
 ```
 Com isso você irá receber todo arquivo pdf público na internet que tem em seu texto interno o termo "react native".
 
-# React Native Crash Guide
-Vosso acerto de tudo sobre nossa gambiarra favorita: React Native!
 
-[Roadmap React Native](https://roadmap.sh/pdfs/roadmaps/react.pdf)
-
-## Livros e artigos
+### Livros e artigos
 
 *Livros e artigos sobre React Native* (em Português)
 
@@ -48,7 +49,7 @@ Vosso acerto de tudo sobre nossa gambiarra favorita: React Native!
 - [React + Redux: Managing Your React App State with Redux](https://weblab.mit.edu/public/react-redux.pdf)
 - [Intro to React, Redux and Typescript](https://blog.isquaredsoftware.com/presentations/pdfs/Mark%20Erikson%20-%20Introduction%20to%20React,%20Redux,%20and%20TypeScript%20(2020).pdf)
 
-## Projects
+#### Projects
 
 - [Contacts App 1.0](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula09.pdf)
 - [Contacts App 1.1](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula10.pdf)
