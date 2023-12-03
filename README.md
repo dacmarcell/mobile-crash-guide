@@ -1,5 +1,5 @@
 
-![RN Crash Guide Logo]([https://github.com/marcelldac/react-native-guide/assets/83461178/70fdf994-3127-4722-ac50-fd2f687c9752](https://github.com/marcelldac/react-native-crash-guide/assets/83461178/f603cec2-597b-4f54-8edd-65b442c95624))
+![RN Crash Guide Logo](https://github-production-user-asset-6210df.s3.amazonaws.com/83461178/287500669-f603cec2-597b-4f54-8edd-65b442c95624.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231203%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231203T062626Z&X-Amz-Expires=300&X-Amz-Signature=b2d58cee78925c577d5488547a13e17f4f5b6ef235f716a06b4da11ef58a4d60&X-Amz-SignedHeaders=host&actor_id=83461178&key_id=0&repo_id=659496478)
 
 # React Native Crash Guide
 Vosso acerto de tudo sobre nossa gambiarra favorita: React Native!
