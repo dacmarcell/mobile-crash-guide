@@ -1,14 +1,14 @@
 
 ![RN Guide Logo](https://github.com/marcelldac/react-native-guide/assets/83461178/70fdf994-3127-4722-ac50-fd2f687c9752)
 
-# React Native Guide
-Here is a list of books, courses, and articles on React Native.
+# React Native Crash Guide
+Vosso acerto de tudo sobre nossa gambiarra favorita: React Native!
 
 [Roadmap React Native](https://roadmap.sh/pdfs/roadmaps/react.pdf)
 
-## Books and articles
+## Livros e artigos
 
-*Books and articles about React Native* (in Portuguese)
+*Livros e artigos sobre React Native* (em Português)
 
 - [Javascript ES6+](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula01.pdf)
 - [Instruções sobre Preparação e Instalação do Ambiente React Native](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula03.pdf)
@@ -19,7 +19,7 @@ Here is a list of books, courses, and articles on React Native.
 - [MANUAL DE REFERÊNCIA ELETRÔNICO PARA REACT NATIVE](https://seer.uniacademia.edu.br/index.php/ANL/article/viewFile/3090/2093)
 - [Paradigmas de Programação React Native](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula06.pdf)
 
-*Books and articles about React Native* (in English)
+*Livros e artigos sobre React Native* (in English)
 
 - [The React Beginner's handbook](https://www.lcg.ufrj.br/nodejs/books/react-beginners-handbook.pdf)
 - [React Native - TutorialsPoint](https://www.tutorialspoint.com/react_native/react_native_tutorial.pdf)
