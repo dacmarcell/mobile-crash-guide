@@ -1,3 +1,5 @@
+<img src="./img/RNCG.png" alt="RNCG" width="500" />
+
 # React Native Crash Guide
 Vosso acerto de tudo sobre nossa gambiarra favorita: React Native!
 
