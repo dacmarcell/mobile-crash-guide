@@ -1,20 +1,13 @@
-<img src="./img/RNCG.png" alt="RNCG" width="500" />
+<div align='center'>
 
-# React Native Crash Guide
-Vosso acerto de tudo sobre nossa gambiarra favorita: React Native!
+# Mobile Crash Guide
 
-[Roadmap React Native](https://roadmap.sh/pdfs/roadmaps/react.pdf)
+<img src="./img/mobile-crash-guide.jpeg" alt="mobile crash guide" width="500" />
+  
+[React Native Roadmap](https://roadmap.sh/react-native)
+[Flutter Roadmap](https://roadmap.sh/flutter)
 
-## Como contribuir com o projeto? 
-
-Meu método de pesquisa atual é baseado no google hacking:
-```
-intext:react native filetype:pdf
-```
-Com isso você irá receber todo arquivo pdf público na internet que tem em seu texto interno o termo "react native".
-
-
-### Livros e artigos
+### Books and Articles
 
 *Livros e artigos sobre React Native* (em Português)
 
@@ -28,8 +21,21 @@ Com isso você irá receber todo arquivo pdf público na internet que tem em seu
 - [Paradigmas de Programação React Native](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula06.pdf)
 - [Desenvolvimento para Dispositivos Móveis](https://www.inf.ufpr.br/dagoncalves/UFPR_Disp03.pdf)
 - [Apostila React Native IFSP](https://cbt.ifsp.edu.br/images/Documentos/2021/Trabalho_de_TCC/417_Apostila_React.pdf)
+- [ESTUDO DAS FERRAMENTAS GOOGLE FLUTTER E REACT NATIVE NO DESENVOLVIMENTO MULTIPLATAFORMA](http://www.fatecrp.edu.br/WorkTec/edicoes/2021-2/trabalhos/IV-Worktec-ESTUDO_DAS_FERRAMENTAS_GOOGLE_FLUTTER_E_REACT_NATIVE_NO_DESENVOLVIMENTO_MULTIPLATAFORMA.pdf)
+- [Android e Kotlin – Flutter vs React Native](https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2018POA/androidkotlin/ZGA-1696_2018-12-05T012756_Flutter%20vs%20React%20Native.pdf)
 
-*Livros e artigos sobre React Native* (in English)
+*Livros e Artigos sobre Flutter* (em Português)
+
+- [DESENVOLVIMENTO MOBILE UTILIZANDO FLUTTER](https://www.publicacoeseventos.unijui.edu.br/index.php/salaoconhecimento/article/view/20757/19468)
+- [ESTUDO DAS FERRAMENTAS GOOGLE FLUTTER E REACT
+NATIVE NO DESENVOLVIMENTO MULTIPLATAFORMA](http://www.fatecrp.edu.br/WorkTec/edicoes/2021-2/trabalhos/IV-Worktec-ESTUDO_DAS_FERRAMENTAS_GOOGLE_FLUTTER_E_REACT_NATIVE_NO_DESENVOLVIMENTO_MULTIPLATAFORMA.pdf)
+- [Desenvolvimento Ágil de Aplicativos Móveis Multi-Plataforma(Usando Flutter e Dart)](https://www-di.inf.puc-rio.br/~endler/courses/Flutter/transp/01-Introducao.pdf)
+- [Palestra sobre Flutter 1](https://afropythonconf.org/palestras/flutter.pdf)
+- [Comparação avaliativa entre os frameworks Ionic e Flutter](https://painel.passofundo.ifsul.edu.br/uploads/arq/202104201652511702722432.pdf)
+- [Android e Kotlin – Flutter vs React Native](https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2018POA/androidkotlin/ZGA-1696_2018-12-05T012756_Flutter%20vs%20React%20Native.pdf)
+
+
+*Books and articles about React Native* (in English)
 
 - [The React Beginner's handbook](https://www.lcg.ufrj.br/nodejs/books/react-beginners-handbook.pdf)
 - [React Native - TutorialsPoint](https://www.tutorialspoint.com/react_native/react_native_tutorial.pdf)
@@ -48,7 +54,10 @@ Com isso você irá receber todo arquivo pdf público na internet que tem em seu
 - [React + Redux: Managing Your React App State with Redux](https://weblab.mit.edu/public/react-redux.pdf)
 - [Intro to React, Redux and Typescript](https://blog.isquaredsoftware.com/presentations/pdfs/Mark%20Erikson%20-%20Introduction%20to%20React,%20Redux,%20and%20TypeScript%20(2020).pdf)
 
+
 #### Projects
 
 - [Contacts App 1.0](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula09.pdf)
 - [Contacts App 1.1](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula10.pdf)
+
+</div>
