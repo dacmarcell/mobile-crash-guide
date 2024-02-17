@@ -4,7 +4,7 @@
 
 <img src="./img/mobile-crash-guide.jpeg" alt="mobile crash guide" width="500" />
   
-[React Native Roadmap](https://roadmap.sh/react-native)
+[React Native Roadmap](https://roadmap.sh/react-native) | 
 [Flutter Roadmap](https://roadmap.sh/flutter)
 
 ### Books and Articles
