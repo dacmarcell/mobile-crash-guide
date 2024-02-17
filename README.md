@@ -10,6 +10,10 @@
 ## How To Contribute?
 
 Read this [repository](https://github.com/firstcontributions/first-contributions/blob/main/README.md)
+<br>
+or
+<br>
+this [for vs code](https://github.com/firstcontributions/first-contributions/blob/main/gui-tool-tutorials/github-windows-vs-code-tutorial.md)
 
 ### Books and Articles
 
