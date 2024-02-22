@@ -42,6 +42,11 @@ NATIVE NO DESENVOLVIMENTO MULTIPLATAFORMA](http://www.fatecrp.edu.br/WorkTec/edi
 - [Comparação avaliativa entre os frameworks Ionic e Flutter](https://painel.passofundo.ifsul.edu.br/uploads/arq/202104201652511702722432.pdf)
 - [Android e Kotlin – Flutter vs React Native](https://s3-sa-east-1.amazonaws.com/thedevconf/presentations/TDC2018POA/androidkotlin/ZGA-1696_2018-12-05T012756_Flutter%20vs%20React%20Native.pdf)
 
+*Books and Articles about Flutter*(in English)
+
+- [Exploring End User’s Perception of Flutter Mobile Apps](https://www.diva-portal.org/smash/get/diva2:1480395/FULLTEXT01.pdf)
+- [Practical Flutter - Improve your Mobile Development with Google’s Latest Open-Source SDK](https://android-learn.ir/dl/books/Practical-Flutter-www.android-learn.ir.pdf)
+- [Flutter – How to Center Align text in Text Widget?](https://www.tutorialkart.com/pdf/flutter/flutter-center-align-text-in-text-widget.pdf)
 
 *Books and articles about React Native* (in English)
 
@@ -62,10 +67,10 @@ NATIVE NO DESENVOLVIMENTO MULTIPLATAFORMA](http://www.fatecrp.edu.br/WorkTec/edi
 - [React + Redux: Managing Your React App State with Redux](https://weblab.mit.edu/public/react-redux.pdf)
 - [Intro to React, Redux and Typescript](https://blog.isquaredsoftware.com/presentations/pdfs/Mark%20Erikson%20-%20Introduction%20to%20React,%20Redux,%20and%20TypeScript%20(2020).pdf)
 
-
 #### Projects
 
 - [Contacts App 1.0](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula09.pdf)
 - [Contacts App 1.1](http://www.gileduardo.com.br/ifpr/pp_rn/downloads/pp_rn_aula10.pdf)
+- [Build an E-marketplace mobile application.](https://respark.iitm.ac.in/wp-content/uploads/2023/04/Latest-Build-an-E-MarketPlace-mobile-application-2.pdf)
 
 </div>
