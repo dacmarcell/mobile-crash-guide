@@ -15,11 +15,14 @@
   </div>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=%20">
+<div>
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=%20">
+
+</div>
 
 <div align='center'>
 
-  
 [React Native Roadmap](https://roadmap.sh/react-native) | 
 [Flutter Roadmap](https://roadmap.sh/flutter)
 
