@@ -1,8 +1,24 @@
+
+<div align="center">
+  
+# Mobile Crash Guide
+  <div>
+    <a href="https://github.com/marcelldac/mobile-crash-guide/issues">
+        <img src="https://img.shields.io/github/issues/marcelldac/mobile-crash-guide?color=fab387&labelColor=303446&style=for-the-badge">
+    </a>
+    <a href="https://github.com/marcelldac/mobile-crash-guide/stargazers">
+        <img src="https://img.shields.io/github/stars/marcelldac/mobile-crash-guide?color=ca9ee6&labelColor=303446&style=for-the-badge">
+    </a>
+    <a href="https://github.com/marcelldac/mobile-crash-guide">
+        <img src="https://img.shields.io/github/repo-size/marcelldac/mobile-crash-guide?color=ea999c&labelColor=303446&style=for-the-badge">
+    </a>
+  </div>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=%20">
+
 <div align='center'>
 
-# Mobile Crash Guide
-
-<img src="./img/mobile-crash-guide.jpeg" alt="mobile crash guide" width="500" />
   
 [React Native Roadmap](https://roadmap.sh/react-native) | 
 [Flutter Roadmap](https://roadmap.sh/flutter)
