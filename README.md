@@ -34,7 +34,10 @@ Read this [repository](https://github.com/firstcontributions/first-contributions
 
 ### What about the content?
 
+You can see the content in ```/books/``` file and ```/projects/``` file.
+
 Here you will learn about:
 
-- React Native
-- Flutter
+- [x] React Native
+- [x] Flutter
+- [ ] Kotlin
