@@ -9,8 +9,8 @@ import retrofit2.http.Query
 // Base URL for the News API
 const val BASE_URL = "https://newsapi.org/"
 
-// API Key for accessing the News API
-const val API_KEY = "840c1d8af10e47edaf45a53eeea757ab"
+// API Key for accessing the News API. You can get it from "https://newsapi.org" after signing in.
+const val API_KEY = ""
 
 // Interface defining the endpoints for the News API
 interface NewsInterface {
