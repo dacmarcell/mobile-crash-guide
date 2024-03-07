@@ -40,4 +40,4 @@ Here you will learn about:
 
 - [x] React Native
 - [x] Flutter
-- [ ] Kotlin
+- [x] Kotlin
