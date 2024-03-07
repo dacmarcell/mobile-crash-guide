@@ -41,3 +41,4 @@ Here you will learn about:
 - [x] React Native
 - [x] Flutter
 - [x] Kotlin
+- [ ] Ionic
